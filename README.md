@@ -19,5 +19,5 @@ You can easily use or modify this code for your own projects.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/scrolling-image-animation.git
+   git clone https://github.com/Priyanshu-2310/Scrolling_Website_1.git
    cd scrolling-image-animation
